@@ -1,3 +1,8 @@
+# OUT OF DATE
+
+**This example is no longer maintained. Check out [React Hot Loader starter kits](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) instead. For the most minimal example, see [React Hot Boilerplate](https://github.com/gaearon/react-hot-boilerplate).**
+
+
 # About this fork
 
 This is a fork of react-tutorial that supports live editing via **[react-hot-loader](https://github.com/gaearon/react-hot-loader)**.
