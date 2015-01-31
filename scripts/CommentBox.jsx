@@ -11,7 +11,7 @@ var Comment = React.createClass({
     return (
       <div className="comment">
         <h2 className="commentAuthor">
-          Mister {this.props.author}
+          Mr {this.props.author}
         </h2>
         <span dangerouslySetInnerHTML={{__html: rawMarkup}} />
       </div>
